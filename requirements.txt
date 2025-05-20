@@ -1,0 +1,12 @@
+pandas
+numpy
+langchain 
+langchain-community
+langchain-groq
+neo4j
+networkx
+langchain_neo4j
+openai
+sentence_transformers
+psycopg2
+sqlalchemy

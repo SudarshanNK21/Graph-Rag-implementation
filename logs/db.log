@@ -1,0 +1,324 @@
+2025-05-16 16:25:20,068 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-16 16:25:20,164 [INFO] Connection to PostgreSQL successful.
+2025-05-16 16:25:20,172 [INFO] SQLAlchemy engine created successfully.
+2025-05-16 16:25:20,186 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-16 16:25:20,557 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-16 16:25:20,560 [INFO] SQLAlchemy engine created successfully.
+2025-05-16 16:25:20,778 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:04:40,766 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:04:40,816 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:04:40,816 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:04:40,849 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:04:41,025 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:04:41,025 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:04:41,082 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:06:37,005 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:06:37,177 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:06:37,177 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:06:37,177 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:06:37,325 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:06:37,325 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:06:37,374 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:06:56,406 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:06:56,441 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:06:56,458 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:06:56,463 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:06:56,581 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:06:56,581 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:06:56,770 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:07:20,267 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:07:20,318 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:07:20,322 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:07:20,327 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:07:20,435 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:07:20,435 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:07:20,490 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:07:43,029 [ERROR] Missing environment variables. Please set DB_HOST, DB_PORT, DB_NAME, DB_USER, and DB_PASSWORD.
+2025-05-19 10:07:43,029 [INFO] Connecting to PostgreSQL at None:5432
+2025-05-19 10:07:43,195 [ERROR] Database connection failed: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-05-19 10:07:43,195 [ERROR] Failed to create engine: Missing database environment variables.
+2025-05-19 10:07:43,195 [ERROR] Error occurred during CSV upload: Engine creation failed.
+2025-05-19 10:07:43,195 [ERROR] Failed to create engine: Missing database environment variables.
+2025-05-19 10:07:43,195 [ERROR] Failed to export table to CSV: Database engine creation failed.
+2025-05-19 10:08:14,817 [ERROR] Missing environment variables. Please set DB_HOST, DB_PORT, DB_NAME, DB_USER, and DB_PASSWORD.
+2025-05-19 10:08:14,817 [INFO] Connecting to PostgreSQL at None:5432
+2025-05-19 10:08:14,855 [ERROR] Database connection failed: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-05-19 10:08:14,856 [ERROR] Failed to create engine: Missing database environment variables.
+2025-05-19 10:08:14,856 [ERROR] Error occurred during CSV upload: Engine creation failed.
+2025-05-19 10:08:14,857 [ERROR] Failed to create engine: Missing database environment variables.
+2025-05-19 10:08:14,857 [ERROR] Failed to export table to CSV: Database engine creation failed.
+2025-05-19 10:08:59,373 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:08:59,536 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:08:59,536 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:08:59,536 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:08:59,692 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:08:59,692 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:08:59,749 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:26:52,985 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:26:53,043 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:26:53,043 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:26:53,060 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:26:53,200 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:26:53,201 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:26:53,251 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:28:32,263 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:28:32,315 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:28:32,320 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:28:32,322 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:28:32,452 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:28:32,452 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:28:32,498 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:28:51,694 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:28:51,736 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:28:51,736 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:28:51,747 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:28:51,883 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:28:51,883 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:28:51,933 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:31:15,428 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:31:15,463 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:31:15,478 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:31:15,478 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:31:15,703 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:31:15,703 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:31:15,756 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:31:59,241 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:31:59,281 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:31:59,281 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:31:59,299 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:31:59,430 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:31:59,430 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:31:59,605 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:32:27,702 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:32:27,757 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:32:27,763 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:32:27,770 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:32:27,903 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:32:27,903 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:32:27,953 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:33:11,996 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:33:12,036 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:33:12,046 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:33:12,054 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:33:12,298 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:33:12,298 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:33:12,462 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:33:49,312 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:33:49,357 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:33:49,357 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:33:49,375 [INFO] CSV file 'data/manufacturing_service_data.csv' read successfully with 100 rows.
+2025-05-19 10:33:49,507 [INFO] Data uploaded to table 'manufacturing_service_data' successfully.
+2025-05-19 10:33:49,507 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:33:49,562 [INFO] Table 'manufacturing_service_data' exported to CSV at 'data/exported_data.csv' successfully.
+2025-05-19 10:38:53,768 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:38:53,811 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:38:53,843 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:38:53,843 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:38:53,961 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:38:53,961 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:38:54,015 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:39:09,564 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:39:09,600 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:39:09,649 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:39:09,649 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:39:09,766 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:39:09,766 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:39:09,819 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:45:54,859 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:45:55,031 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:45:55,061 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:45:55,076 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:45:55,298 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:45:55,298 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:45:55,444 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:46:53,836 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:46:53,887 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:46:53,921 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:46:53,938 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:46:54,058 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:46:54,058 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:46:54,120 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:51:59,573 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:51:59,615 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:51:59,654 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:51:59,658 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:51:59,817 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:51:59,817 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:51:59,876 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:53:13,336 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:53:13,385 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:53:13,415 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:53:13,431 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:53:13,629 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:53:13,629 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:53:13,679 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:54:13,965 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:54:14,009 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:54:14,053 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:54:14,057 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:54:14,212 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:54:14,212 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:54:14,270 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:55:07,167 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:55:07,231 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:55:07,266 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:55:07,270 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:55:07,441 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:55:07,441 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:55:07,504 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 10:55:46,350 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 10:55:46,398 [INFO] Connection to PostgreSQL successful.
+2025-05-19 10:55:46,433 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:55:46,445 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 10:55:46,630 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 10:55:46,631 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 10:55:46,682 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 11:02:04,807 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 11:02:04,850 [INFO] Connection to PostgreSQL successful.
+2025-05-19 11:02:04,880 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:02:04,892 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 11:02:05,054 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 11:02:05,054 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:02:05,107 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 11:02:49,128 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 11:02:49,166 [INFO] Connection to PostgreSQL successful.
+2025-05-19 11:02:49,202 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:02:49,202 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 11:02:49,518 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 11:02:49,518 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:02:49,567 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 11:03:07,810 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 11:03:07,861 [INFO] Connection to PostgreSQL successful.
+2025-05-19 11:03:07,896 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:03:07,896 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 11:03:08,054 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 11:03:08,054 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:03:08,100 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 11:04:34,771 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 11:04:34,821 [INFO] Connection to PostgreSQL successful.
+2025-05-19 11:04:34,856 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:04:34,866 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 11:04:35,028 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 11:04:35,033 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:04:35,086 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 11:06:00,210 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 11:06:00,271 [INFO] Connection to PostgreSQL successful.
+2025-05-19 11:06:00,325 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:06:00,331 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 11:06:00,663 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 11:06:00,663 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:06:00,735 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-19 11:08:45,153 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-19 11:08:45,202 [INFO] Connection to PostgreSQL successful.
+2025-05-19 11:08:45,237 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:08:45,252 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-19 11:08:45,401 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-19 11:08:45,401 [INFO] SQLAlchemy engine created successfully.
+2025-05-19 11:08:45,464 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 10:46:21,177 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 10:46:21,222 [INFO] Connection to PostgreSQL successful.
+2025-05-20 10:46:21,271 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 10:46:21,281 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 10:46:21,548 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 10:46:21,548 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 10:46:21,602 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 10:49:44,181 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 10:49:44,348 [INFO] Connection to PostgreSQL successful.
+2025-05-20 10:49:44,394 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 10:49:44,397 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 10:49:44,549 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 10:49:44,551 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 10:49:44,613 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 10:53:45,514 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 10:53:45,614 [INFO] Connection to PostgreSQL successful.
+2025-05-20 10:53:45,669 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 10:53:45,672 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 10:53:45,813 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 10:53:45,813 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 10:53:45,879 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 11:13:48,224 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 11:13:48,262 [INFO] Connection to PostgreSQL successful.
+2025-05-20 11:13:48,312 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 11:13:48,315 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 11:13:48,465 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 11:13:48,466 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 11:13:48,526 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 11:16:26,352 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 11:16:26,394 [INFO] Connection to PostgreSQL successful.
+2025-05-20 11:16:26,443 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 11:16:26,445 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 11:16:26,577 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 11:16:26,578 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 11:16:26,731 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 11:38:20,993 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 11:38:21,161 [INFO] Connection to PostgreSQL successful.
+2025-05-20 11:38:21,194 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 11:38:21,194 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 11:38:21,331 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 11:38:21,331 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 11:38:21,383 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:02:05,710 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:02:05,758 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:02:05,798 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:02:05,800 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:02:06,033 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:02:06,033 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:02:06,093 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:17:41,563 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:17:41,620 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:17:41,653 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:17:41,664 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:17:41,908 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:17:41,908 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:17:41,966 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:22:53,137 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:22:53,176 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:22:53,226 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:22:53,227 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:22:53,355 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:22:53,368 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:22:53,407 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:30:36,526 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:30:36,578 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:30:36,617 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:30:36,617 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:30:36,765 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:30:36,765 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:30:36,821 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:43:59,585 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:43:59,618 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:43:59,661 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:43:59,664 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:43:59,783 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:43:59,783 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:43:59,833 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:46:21,276 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:46:21,317 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:46:21,354 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:46:21,355 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:46:21,483 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:46:21,483 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:46:21,541 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:48:50,125 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:48:50,353 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:48:50,511 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:48:50,520 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:48:50,839 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:48:50,839 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:48:51,129 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:50:08,681 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:50:08,742 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:50:08,809 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:50:08,814 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:50:09,032 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:50:09,035 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:50:09,142 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.
+2025-05-20 15:52:17,331 [INFO] Connecting to PostgreSQL at localhost:5432
+2025-05-20 15:52:17,397 [INFO] Connection to PostgreSQL successful.
+2025-05-20 15:52:17,462 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:52:17,466 [INFO] Read CSV 'data/manufacturing_service_data.csv' with 100 rows.
+2025-05-20 15:52:17,665 [INFO] Uploaded data to table 'manufacturing_service_data' successfully.
+2025-05-20 15:52:17,679 [INFO] SQLAlchemy engine created successfully.
+2025-05-20 15:52:17,771 [INFO] Exported table 'manufacturing_service_data' to 'data/exported_data.csv'.

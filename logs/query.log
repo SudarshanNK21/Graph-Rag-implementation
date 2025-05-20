@@ -1,0 +1,14 @@
+2025-05-20 15:18:10,342 [ERROR] Failed to run Cypher query: 1 validation error for GraphCypherQAChain
+graph
+  Input should be an instance of GraphStore [type=is_instance_of, input_value=<langchain_neo4j.graphs.n...t at 0x0000018C301A7C70>, input_type=Neo4jGraph]
+    For further information visit https://errors.pydantic.dev/2.11/v/is_instance_of
+2025-05-20 15:23:22,667 [ERROR] Failed to run Cypher query: 1 validation error for GraphCypherQAChain
+graph
+  Input should be an instance of GraphStore [type=is_instance_of, input_value=<langchain_neo4j.graphs.n...t at 0x000001878B67EAA0>, input_type=Neo4jGraph]
+    For further information visit https://errors.pydantic.dev/2.11/v/is_instance_of
+2025-05-20 15:31:06,023 [INFO] Successfully ran Cypher query: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-20 15:44:28,090 [ERROR] Failed to run Cypher query: Error code: 400 - {'error': {'message': 'Please reduce the length of the messages or completion.', 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}
+2025-05-20 15:46:50,297 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-20 15:49:33,135 [ERROR] Failed to run Cypher query: Connection error.
+2025-05-20 15:50:55,336 [ERROR] Failed to run Cypher query: Connection error.
+2025-05-20 15:52:59,514 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position

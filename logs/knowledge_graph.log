@@ -1,0 +1,95 @@
+2025-05-19 15:26:33,042 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:26:35,119 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:26:35,139 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:32:26,744 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:32:28,848 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:32:28,863 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:33:26,936 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:33:29,032 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:33:29,069 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:34:35,672 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:34:37,732 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:34:37,773 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:36:27,729 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:36:29,795 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:36:29,811 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:38:50,774 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:38:52,858 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:38:52,880 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:39:18,151 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:39:20,196 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:42:07,963 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:42:10,056 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:42:40,592 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:42:42,665 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:42:42,671 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:42:50,059 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:42:52,108 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:42:52,122 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 15:50:25,366 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 15:50:27,419 [INFO] Knowledge graph deleted successfully.
+2025-05-19 15:50:27,432 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 17:00:48,860 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 17:00:50,903 [INFO] Knowledge graph deleted successfully.
+2025-05-19 17:00:50,910 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 17:25:02,378 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 17:25:04,456 [INFO] Knowledge graph deleted successfully.
+2025-05-19 17:25:04,500 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 17:26:32,741 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 17:26:34,813 [INFO] Knowledge graph deleted successfully.
+2025-05-19 17:26:34,838 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-19 17:27:40,728 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-19 17:27:42,795 [INFO] Knowledge graph deleted successfully.
+2025-05-19 17:27:42,813 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 10:15:20,795 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 10:15:23,008 [INFO] Knowledge graph deleted successfully.
+2025-05-20 10:15:23,356 [INFO] Loaded CSV with 100 rows from 'data\exported_data.csv'
+2025-05-20 10:46:21,152 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 10:46:23,706 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 10:46:25,767 [INFO] Knowledge graph deleted successfully.
+2025-05-20 10:46:25,807 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 10:49:44,175 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 10:49:46,688 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 10:49:48,751 [INFO] Knowledge graph deleted successfully.
+2025-05-20 10:49:48,851 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 10:53:45,514 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 10:53:47,933 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 10:53:50,032 [INFO] Knowledge graph deleted successfully.
+2025-05-20 10:53:50,090 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 10:56:21,022 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 11:13:50,578 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 11:13:52,648 [INFO] Knowledge graph deleted successfully.
+2025-05-20 11:13:52,694 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 11:16:28,923 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 11:16:31,002 [INFO] Knowledge graph deleted successfully.
+2025-05-20 11:16:31,049 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 11:38:23,580 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 11:38:25,647 [INFO] Knowledge graph deleted successfully.
+2025-05-20 11:38:25,688 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:02:08,320 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:02:10,373 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:02:10,409 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:17:44,156 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:17:46,255 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:17:46,296 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:22:55,621 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:22:57,677 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:22:57,732 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:30:39,049 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:30:41,140 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:30:41,186 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:44:02,021 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:44:04,078 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:44:04,127 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:46:23,684 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:46:25,783 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:46:25,822 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:48:53,619 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:48:55,750 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:48:55,876 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:50:11,584 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:50:13,686 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:50:13,812 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-20 15:52:20,245 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-20 15:52:22,339 [INFO] Knowledge graph deleted successfully.
+2025-05-20 15:52:22,378 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'

@@ -1,0 +1,107 @@
+2025-05-20 10:46:21,164 [INFO] CSV loaded successfully: data/exported_data.csv
+2025-05-20 10:46:26,532 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 10:46:28,309 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:46:28,309 [INFO] Processing Cause nodes from column: cause
+2025-05-20 10:46:29,628 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:46:29,628 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 10:46:30,928 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:49:44,179 [INFO] CSV loaded successfully: data/exported_data.csv
+2025-05-20 10:49:50,974 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 10:50:00,697 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:50:00,697 [INFO] Processing Cause nodes from column: cause
+2025-05-20 10:50:09,608 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:50:09,608 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 10:50:19,685 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:53:45,514 [INFO] CSV loaded successfully: data/exported_data.csv
+2025-05-20 10:53:51,788 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 10:54:00,345 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:54:00,345 [INFO] Processing Cause nodes from column: cause
+2025-05-20 10:54:08,259 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:54:08,260 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 10:54:16,596 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 10:56:21,023 [ERROR] Failed to load CSV: [Errno 2] No such file or directory: 'data/exported_data.csv'
+2025-05-20 10:58:02,992 [ERROR] Failed to load CSV: [Errno 2] No such file or directory: 'data/exported_data.csv'
+2025-05-20 11:13:48,224 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 11:13:54,184 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 11:14:02,265 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:14:02,265 [INFO] Processing Cause nodes from column: cause
+2025-05-20 11:14:10,045 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:14:10,045 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 11:14:18,543 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:16:26,341 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 11:16:32,729 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 11:16:40,479 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:16:40,479 [INFO] Processing Cause nodes from column: cause
+2025-05-20 11:16:49,125 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:16:49,126 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 11:16:58,224 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:38:20,993 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 11:38:26,988 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 11:38:34,104 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:38:34,104 [INFO] Processing Cause nodes from column: cause
+2025-05-20 11:38:41,186 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 11:38:41,186 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 11:38:49,152 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:02:05,708 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:02:11,827 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:02:19,517 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:02:19,517 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:02:27,696 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:02:27,696 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:02:36,019 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:17:41,473 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:17:47,551 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:17:54,773 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:17:54,773 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:18:02,324 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:18:02,324 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:18:10,168 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:22:53,063 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:22:59,039 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:23:06,603 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:23:06,603 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:23:14,136 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:23:14,136 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:23:22,499 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:30:36,106 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:30:42,414 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:30:49,751 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:30:49,751 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:30:57,004 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:30:57,004 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:31:04,989 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:43:59,169 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:44:05,301 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:44:12,082 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:44:12,082 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:44:18,999 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:44:18,999 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:44:27,140 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:46:20,857 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:46:26,983 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:46:34,305 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:46:34,305 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:46:41,671 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:46:41,671 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:46:49,150 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:48:49,367 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:48:57,931 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:49:08,771 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:49:08,771 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:49:19,456 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:49:19,456 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:49:31,145 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:50:07,921 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:50:16,097 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:50:29,419 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:50:29,425 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:50:42,266 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:50:42,266 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:50:53,593 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:52:16,663 [INFO] CSV loaded successfully: data/manufacturing_service_data.csv
+2025-05-20 15:52:24,040 [INFO] Processing Problem nodes from column: problem reported
+2025-05-20 15:52:35,614 [INFO] Problem nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:52:35,614 [INFO] Processing Cause nodes from column: cause
+2025-05-20 15:52:47,126 [INFO] Cause nodes processed with embeddings and SIMILAR_TO links
+2025-05-20 15:52:47,126 [INFO] Processing CorrectiveAction nodes from column: corrective action
+2025-05-20 15:52:58,018 [INFO] CorrectiveAction nodes processed with embeddings and SIMILAR_TO links
