@@ -506,3 +506,22 @@ graph
 2025-05-22 16:03:19,843 [INFO] Finding similar problems for input: coolant is hot
 2025-05-22 16:03:22,023 [INFO] Successfully retrieved problem context.
 2025-05-22 16:03:23,683 [INFO] LLM response received successfully.
+2025-05-22 17:33:18,841 [INFO] Connecting to Neo4j...
+2025-05-22 17:33:20,920 [INFO] Neo4j connection successful.
+2025-05-22 17:33:44,015 [INFO] Connecting to Neo4j...
+2025-05-22 17:33:44,979 [INFO] Connecting to Neo4j...
+2025-05-22 17:33:46,094 [INFO] Neo4j connection successful.
+2025-05-22 17:33:47,038 [INFO] Neo4j connection successful.
+2025-05-22 17:33:54,115 [INFO] Connecting to Neo4j...
+2025-05-22 17:33:56,194 [INFO] Neo4j connection successful.
+2025-05-22 17:33:56,197 [INFO] Finding similar problems for input: coolant is extremely hot
+2025-05-22 17:33:58,265 [INFO] Successfully retrieved problem context.
+2025-05-22 17:33:59,889 [INFO] LLM response received successfully.
+2025-05-22 18:05:08,868 [INFO] Connecting to Neo4j...
+2025-05-22 18:05:08,951 [INFO] Connecting to Neo4j...
+2025-05-22 18:05:10,936 [INFO] Neo4j connection successful.
+2025-05-22 18:05:11,154 [INFO] Neo4j connection successful.
+2025-05-22 18:05:11,155 [INFO] Finding similar problems for input: power fluctuations is happening
+
+2025-05-22 18:05:13,249 [INFO] Successfully retrieved problem context.
+2025-05-22 18:05:15,102 [INFO] LLM response received successfully.
