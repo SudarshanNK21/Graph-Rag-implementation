@@ -5,6 +5,10 @@ from knowledge_graph.create_nodes_from_csv import load_csv_and_create_nodes
 from embedding_relation.graph_vector_similarity import process_node_type
 from utils.logger_config import get_logger
 from query.graph_cypher_qa_chain import graph_qa_chain
+import os
+from sentence_transformers import SentenceTransformer
+from query.vector_based_query import find_similar_problem, get_llm_diagnosis
+
 
 logger = get_logger(name=__name__, log_file="main.log")
 
@@ -12,7 +16,9 @@ logger = get_logger(name=__name__, log_file="main.log")
 CSV_PATH_1 = "data/manufacturing_service_data.csv"
 CSV_PATH_2 = "data/exported_data.csv"
 LLM = "gemma2-9b-it"
-query = "what is the cause for problem text: Tool turret not indexing to correct position"
+query = "Coolent is extremely hot"
+api_key = os.getenv("groq_api_key")
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
 NODE_TYPES = {
     "Problem": "problem reported",
@@ -89,6 +95,7 @@ def main():
         logger.info("Connecting to Neo4j...")
         graph, driver = connect_to_neo4j()
         logger.info("Neo4j connection successful.")
+        #print(graph.schema)
     except Exception as e:
         logger.error(f"Neo4j connection failed: {e}")
         return
@@ -127,26 +134,41 @@ def main():
             logger.info("Embedding node types for vector similarity...")
             for label, column in NODE_TYPES.items():
                 logger.info(f"Processing {label} nodes...")
-                process_node_type(driver, label, column)
+                process_node_type(driver, label, column, CSV_PATH_1, model)
             logger.info("All node types embedded and linked.")
         except Exception as e:
             logger.error(f"Embedding and similarity linking failed: {e}")
-        
+    
+    except Exception as e:
+        logger.error(f"Failed to create knowledge graph: {e}")
+        return
+    
         # Step 9: Run Cypher query    
-        try:
-            response = graph_qa_chain(graph=graph,query=query,llm=LLM)
-            logger.info(f"Successfully ran Cypher query: {query}")
-            logger.info(f"Response: {response}")
-        except Exception as e:
-            logger.error(f"Failed to run Cypher query: {e}")
-            
+    try:
+        response = graph_qa_chain(graph=graph,query=query,llm=LLM)
+        logger.info(f"Successfully ran Cypher query: {query}")
+        logger.info(f"Response: {response}")
+    except Exception as e:
+        logger.error(f"Failed to run Cypher query: {e}")
+    
+    try:
         
-        
-    finally:
-        driver.close()
-        logger.info("Neo4j connection closed.")
+        problem_context = find_similar_problem(user_input = query, driver=driver, model=model)
+        print("Problem Context:\n", problem_context)
+        logger.info("Successfully retrieved problem context.Problem Context:\n", problem_context)
 
-    logger.info("Pipeline execution completed successfully.")
+        llm_response = get_llm_diagnosis(user_input = query, problem_context = problem_context, api_key=api_key)
+        print("\nLLM Response:\n", llm_response)
+        logger.info("Successfully retrieved LLM response.LLM Response:\n", llm_response)
+        
+    except Exception as e:
+        logger.error(f"Failed to run Cypher query: {e}")
+        
+    # finally:
+    #     driver.close()
+    #     logger.info("Neo4j connection closed.")
+
+    # logger.info("Pipeline execution completed successfully.")
     
     
 

@@ -93,3 +93,142 @@
 2025-05-20 15:52:20,245 [INFO] Connected to Neo4j successfully using Neo4jGraph.
 2025-05-20 15:52:22,339 [INFO] Knowledge graph deleted successfully.
 2025-05-20 15:52:22,378 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-21 16:49:53,973 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-21 16:49:56,068 [INFO] Knowledge graph deleted successfully.
+2025-05-21 16:49:56,114 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-21 16:58:17,769 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-21 16:58:19,824 [INFO] Knowledge graph deleted successfully.
+2025-05-21 16:58:19,855 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-21 17:13:58,798 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-21 17:14:01,007 [INFO] Knowledge graph deleted successfully.
+2025-05-21 17:14:01,462 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-21 21:08:54,480 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-21 21:13:57,727 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-21 21:17:52,587 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-21 21:21:17,207 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-21 21:25:37,452 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 11:18:30,443 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 11:18:32,522 [INFO] Knowledge graph deleted successfully.
+2025-05-22 11:18:32,612 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-22 11:20:48,262 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 11:22:57,741 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 11:42:58,944 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 11:43:00,995 [INFO] Knowledge graph deleted successfully.
+2025-05-22 11:43:01,054 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-22 12:07:22,676 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:09:07,720 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:09:49,167 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:09:49,322 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:15:50,984 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:16:09,954 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:16:25,940 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:16:58,923 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:19:57,694 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:22:49,489 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:22:49,911 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:23:27,649 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:23:28,147 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:25:43,804 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:29:17,547 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:33:20,861 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:33:50,357 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:33:51,619 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:37:24,474 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:39:36,755 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:41:23,433 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:41:35,127 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:41:37,129 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:41:44,992 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:42:27,199 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:42:27,561 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:42:35,524 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:42:36,092 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:42:51,515 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:43:55,518 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:43:55,667 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:44:40,450 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:45:01,511 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:45:02,018 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:45:11,147 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:45:25,746 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:45:26,122 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:45:51,899 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:45:52,702 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:46:12,177 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:46:13,847 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:46:20,214 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:46:26,384 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:46:28,249 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:46:49,720 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:46:51,106 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:47:46,323 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:47:47,768 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:47:47,967 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:47:48,203 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:49:06,938 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:49:08,431 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:51:31,736 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:51:48,666 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:51:55,461 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:52:12,803 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:52:13,006 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:52:19,653 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:53:09,141 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:53:36,459 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:53:57,853 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:54:09,736 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:54:09,902 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:54:18,502 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:54:33,143 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:54:33,539 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 12:54:45,628 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 14:59:12,740 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:01:45,066 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:02:26,980 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:04:43,109 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:09:24,854 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:17:43,642 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:21:29,357 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:23:57,268 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:25:45,820 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:25:48,009 [INFO] Knowledge graph deleted successfully.
+2025-05-22 15:25:48,111 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-22 15:26:16,951 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:26:19,041 [INFO] Knowledge graph deleted successfully.
+2025-05-22 15:26:19,096 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-22 15:27:20,581 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:27:46,180 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:29:19,941 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:30:38,111 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:32:54,268 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:33:14,499 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:33:15,577 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:33:49,130 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:34:50,481 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:35:59,244 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:37:16,023 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:37:39,717 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:38:49,872 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:39:18,896 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:42:26,726 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:42:39,600 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:42:40,203 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:42:40,526 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:42:47,643 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:42:59,221 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:48:10,199 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:51:21,957 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:51:42,811 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:51:43,006 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:52:56,063 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:53:49,217 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 15:53:51,337 [INFO] Knowledge graph deleted successfully.
+2025-05-22 15:53:51,398 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-22 16:01:11,415 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 16:01:13,529 [INFO] Knowledge graph deleted successfully.
+2025-05-22 16:01:13,589 [INFO] Loaded CSV with 100 rows from 'data/exported_data.csv'
+2025-05-22 16:02:53,963 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 16:03:11,654 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 16:03:12,622 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 16:03:13,165 [INFO] Connected to Neo4j successfully using Neo4jGraph.
+2025-05-22 16:03:19,837 [INFO] Connected to Neo4j successfully using Neo4jGraph.

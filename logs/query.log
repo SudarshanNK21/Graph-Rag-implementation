@@ -12,3 +12,497 @@ graph
 2025-05-20 15:49:33,135 [ERROR] Failed to run Cypher query: Connection error.
 2025-05-20 15:50:55,336 [ERROR] Failed to run Cypher query: Connection error.
 2025-05-20 15:52:59,514 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 16:50:19,676 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 16:50:19,688 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 16:50:19,882 [INFO] Successfully retrieved problem context.
+2025-05-21 16:50:21,655 [INFO] LLM response received successfully.
+2025-05-21 16:58:45,679 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 16:58:45,680 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 16:58:45,806 [INFO] Successfully retrieved problem context.
+2025-05-21 16:58:47,730 [INFO] LLM response received successfully.
+2025-05-21 17:14:31,344 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 17:14:31,345 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 17:14:31,620 [INFO] Successfully retrieved problem context.
+2025-05-21 17:14:33,218 [INFO] LLM response received successfully.
+2025-05-21 21:08:58,608 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:08:58,612 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:09:00,997 [INFO] Successfully retrieved problem context.
+2025-05-21 21:09:03,107 [INFO] LLM response received successfully.
+2025-05-21 21:13:59,519 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:13:59,535 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:14:01,718 [INFO] Successfully retrieved problem context.
+2025-05-21 21:14:03,791 [INFO] LLM response received successfully.
+2025-05-21 21:17:54,419 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:17:54,426 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:17:56,936 [INFO] Successfully retrieved problem context.
+2025-05-21 21:17:58,526 [INFO] LLM response received successfully.
+2025-05-21 21:21:19,853 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:21:19,854 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:21:21,933 [INFO] Successfully retrieved problem context.
+2025-05-21 21:21:23,646 [INFO] LLM response received successfully.
+2025-05-21 21:25:39,040 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:25:39,040 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-21 21:25:41,209 [INFO] Successfully retrieved problem context.
+2025-05-21 21:25:42,744 [INFO] LLM response received successfully.
+2025-05-22 11:18:58,837 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:18:58,837 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:18:58,968 [INFO] Successfully retrieved problem context.
+2025-05-22 11:19:00,236 [INFO] LLM response received successfully.
+2025-05-22 11:20:49,287 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:20:49,287 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:20:51,370 [INFO] Successfully retrieved problem context.
+2025-05-22 11:20:52,720 [INFO] LLM response received successfully.
+2025-05-22 11:22:59,453 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:22:59,454 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:23:01,600 [INFO] Successfully retrieved problem context.
+2025-05-22 11:23:03,241 [INFO] LLM response received successfully.
+2025-05-22 11:43:27,453 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:43:27,453 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 11:43:27,588 [INFO] Successfully retrieved problem context.
+2025-05-22 11:43:29,181 [INFO] LLM response received successfully.
+2025-05-22 12:07:20,473 [INFO] Connecting to Neo4j...
+2025-05-22 12:07:22,677 [INFO] Neo4j connection successful.
+2025-05-22 12:09:05,633 [INFO] Connecting to Neo4j...
+2025-05-22 12:09:07,720 [INFO] Neo4j connection successful.
+2025-05-22 12:09:47,087 [INFO] Connecting to Neo4j...
+2025-05-22 12:09:47,177 [INFO] Connecting to Neo4j...
+2025-05-22 12:09:49,167 [INFO] Neo4j connection successful.
+2025-05-22 12:09:49,322 [INFO] Neo4j connection successful.
+2025-05-22 12:09:49,324 [ERROR] Graph QA chain failed: name 'LLM' is not defined
+2025-05-22 12:09:49,324 [ERROR] Vector search or LLM diagnosis failed: name 'model' is not defined
+2025-05-22 12:15:48,935 [INFO] Connecting to Neo4j...
+2025-05-22 12:15:50,984 [INFO] Neo4j connection successful.
+2025-05-22 12:16:07,863 [INFO] Connecting to Neo4j...
+2025-05-22 12:16:09,954 [INFO] Neo4j connection successful.
+2025-05-22 12:16:23,868 [INFO] Connecting to Neo4j...
+2025-05-22 12:16:25,940 [INFO] Neo4j connection successful.
+2025-05-22 12:16:27,012 [INFO] Successfully ran Cypher query: Tool turret not indexing to correct position
+
+2025-05-22 12:16:27,012 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:16:27,012 [INFO] Finding similar problems for input: Tool turret not indexing to correct position
+
+2025-05-22 12:16:29,101 [INFO] Successfully retrieved problem context.
+2025-05-22 12:16:29,101 [INFO] Successfully retrieved problem context.
+2025-05-22 12:16:30,586 [INFO] LLM response received successfully.
+2025-05-22 12:16:56,847 [INFO] Connecting to Neo4j...
+2025-05-22 12:16:58,923 [INFO] Neo4j connection successful.
+2025-05-22 12:16:59,784 [INFO] Successfully ran Cypher query: Tool turret not indexing to correct position
+
+2025-05-22 12:16:59,787 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:16:59,787 [INFO] Finding similar problems for input: Tool turret not indexing to correct position
+
+2025-05-22 12:17:01,847 [INFO] Successfully retrieved problem context.
+2025-05-22 12:17:01,848 [INFO] Successfully retrieved problem context.
+2025-05-22 12:17:03,234 [INFO] LLM response received successfully.
+2025-05-22 12:19:55,621 [INFO] Connecting to Neo4j...
+2025-05-22 12:19:57,695 [INFO] Neo4j connection successful.
+2025-05-22 12:19:58,590 [INFO] Successfully ran Cypher query: Tool turret not indexing to correct position
+
+2025-05-22 12:19:58,590 [INFO] GraphCypherQAChain response: Tool turret indexing extremely slow. 
+
+2025-05-22 12:19:58,590 [INFO] Finding similar problems for input: Tool turret not indexing to correct position
+
+2025-05-22 12:20:00,680 [INFO] Successfully retrieved problem context.
+2025-05-22 12:20:00,683 [INFO] Successfully retrieved problem context.
+2025-05-22 12:20:02,341 [INFO] LLM response received successfully.
+2025-05-22 12:22:47,412 [INFO] Connecting to Neo4j...
+2025-05-22 12:22:47,805 [INFO] Connecting to Neo4j...
+2025-05-22 12:22:49,489 [INFO] Neo4j connection successful.
+2025-05-22 12:22:49,911 [INFO] Neo4j connection successful.
+2025-05-22 12:22:50,892 [INFO] Successfully ran Cypher query: coolent is extreamly hot
+2025-05-22 12:22:50,893 [INFO] GraphCypherQAChain response: You're likely looking for words like "extremely" and "hot" that have similar meanings.  
+
+2025-05-22 12:22:50,893 [INFO] Finding similar problems for input: coolent is extreamly hot
+2025-05-22 12:22:52,963 [INFO] Successfully retrieved problem context.
+2025-05-22 12:22:52,965 [INFO] Successfully retrieved problem context.
+2025-05-22 12:22:54,322 [INFO] LLM response received successfully.
+2025-05-22 12:23:25,602 [INFO] Connecting to Neo4j...
+2025-05-22 12:23:26,081 [INFO] Connecting to Neo4j...
+2025-05-22 12:23:27,649 [INFO] Neo4j connection successful.
+2025-05-22 12:23:28,147 [INFO] Neo4j connection successful.
+2025-05-22 12:23:28,956 [INFO] Successfully ran Cypher query: coolent is overheating
+2025-05-22 12:23:28,958 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:23:28,958 [INFO] Finding similar problems for input: coolent is overheating
+2025-05-22 12:23:31,026 [INFO] Successfully retrieved problem context.
+2025-05-22 12:23:31,027 [INFO] Successfully retrieved problem context.
+2025-05-22 12:23:32,717 [INFO] LLM response received successfully.
+2025-05-22 12:25:41,758 [INFO] Connecting to Neo4j...
+2025-05-22 12:25:43,805 [INFO] Neo4j connection successful.
+2025-05-22 12:25:44,565 [INFO] Successfully ran Cypher query: coolent is overheating
+2025-05-22 12:25:44,565 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:25:44,565 [INFO] Finding similar problems for input: coolent is overheating
+2025-05-22 12:25:46,632 [INFO] Successfully retrieved problem context.
+2025-05-22 12:25:46,632 [INFO] Successfully retrieved problem context.
+2025-05-22 12:25:48,433 [INFO] LLM response received successfully.
+2025-05-22 12:29:15,495 [INFO] Connecting to Neo4j...
+2025-05-22 12:29:17,547 [INFO] Neo4j connection successful.
+2025-05-22 12:29:18,422 [INFO] Successfully ran Cypher query: coolent is overheating
+2025-05-22 12:29:18,438 [INFO] GraphCypherQAChain response: Coolant, overheating 
+
+2025-05-22 12:29:18,438 [INFO] Finding similar problems for input: coolent is overheating
+2025-05-22 12:29:20,633 [INFO] Successfully retrieved problem context.
+2025-05-22 12:29:20,633 [INFO] Successfully retrieved problem context.
+2025-05-22 12:29:21,628 [INFO] LLM response received successfully.
+2025-05-22 12:33:18,812 [INFO] Connecting to Neo4j...
+2025-05-22 12:33:20,861 [INFO] Neo4j connection successful.
+2025-05-22 12:33:48,293 [INFO] Connecting to Neo4j...
+2025-05-22 12:33:49,559 [INFO] Connecting to Neo4j...
+2025-05-22 12:33:50,357 [INFO] Neo4j connection successful.
+2025-05-22 12:33:51,619 [INFO] Neo4j connection successful.
+2025-05-22 12:33:52,756 [INFO] Successfully ran Cypher query: Coolant is extreamly hot
+2025-05-22 12:33:52,756 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:33:52,757 [INFO] Finding similar problems for input: Coolant is extreamly hot
+2025-05-22 12:33:54,847 [INFO] Successfully retrieved problem context.
+2025-05-22 12:33:54,849 [INFO] Successfully retrieved problem context.
+2025-05-22 12:33:56,564 [INFO] LLM response received successfully.
+2025-05-22 12:37:22,419 [INFO] Connecting to Neo4j...
+2025-05-22 12:37:24,475 [INFO] Neo4j connection successful.
+2025-05-22 12:37:25,508 [INFO] Successfully ran Cypher query: Coolant is extreamly hot
+2025-05-22 12:37:25,510 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:37:25,510 [INFO] Finding similar problems for input: Coolant is extreamly hot
+2025-05-22 12:37:27,561 [INFO] Successfully retrieved problem context.
+2025-05-22 12:37:27,563 [INFO] Successfully retrieved problem context.
+2025-05-22 12:37:29,186 [INFO] LLM response received successfully.
+2025-05-22 12:39:34,672 [INFO] Connecting to Neo4j...
+2025-05-22 12:39:36,755 [INFO] Neo4j connection successful.
+2025-05-22 12:39:37,677 [INFO] Successfully ran Cypher query: Coolant is extreamly hot
+2025-05-22 12:39:37,677 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:39:37,677 [INFO] Finding similar problems for input: Coolant is extreamly hot
+2025-05-22 12:39:39,734 [INFO] Successfully retrieved problem context.
+2025-05-22 12:39:39,734 [INFO] Successfully retrieved problem context.
+2025-05-22 12:39:41,457 [INFO] LLM response received successfully.
+2025-05-22 12:41:21,344 [INFO] Connecting to Neo4j...
+2025-05-22 12:41:23,433 [INFO] Neo4j connection successful.
+2025-05-22 12:41:33,023 [INFO] Connecting to Neo4j...
+2025-05-22 12:41:35,015 [INFO] Connecting to Neo4j...
+2025-05-22 12:41:35,128 [INFO] Neo4j connection successful.
+2025-05-22 12:41:37,129 [INFO] Neo4j connection successful.
+2025-05-22 12:41:42,952 [INFO] Connecting to Neo4j...
+2025-05-22 12:41:44,992 [INFO] Neo4j connection successful.
+2025-05-22 12:42:25,104 [INFO] Connecting to Neo4j...
+2025-05-22 12:42:25,479 [INFO] Connecting to Neo4j...
+2025-05-22 12:42:27,200 [INFO] Neo4j connection successful.
+2025-05-22 12:42:27,561 [INFO] Neo4j connection successful.
+2025-05-22 12:42:28,169 [ERROR] Failed to run Cypher query: {code: Neo.ClientError.Statement.SyntaxError} {message: Type mismatch: expected Float or Integer but was Node (line 3, column 37 (offset: 174))
+"MATCH (c:Cause) WHERE c:CAUSED_BY>-(p)"
+                                     ^}
+2025-05-22 12:42:28,171 [INFO] GraphCypherQAChain response: None
+2025-05-22 12:42:33,444 [INFO] Connecting to Neo4j...
+2025-05-22 12:42:34,014 [INFO] Connecting to Neo4j...
+2025-05-22 12:42:35,525 [INFO] Neo4j connection successful.
+2025-05-22 12:42:35,525 [INFO] Finding similar problems for input: coolent is becoming extramely hot
+2025-05-22 12:42:36,093 [INFO] Neo4j connection successful.
+2025-05-22 12:42:37,599 [INFO] Successfully retrieved problem context.
+2025-05-22 12:42:37,606 [INFO] Successfully retrieved problem context.
+2025-05-22 12:42:39,139 [INFO] LLM response received successfully.
+2025-05-22 12:42:49,430 [INFO] Connecting to Neo4j...
+2025-05-22 12:42:51,515 [INFO] Neo4j connection successful.
+2025-05-22 12:43:53,449 [INFO] Connecting to Neo4j...
+2025-05-22 12:43:53,490 [INFO] Connecting to Neo4j...
+2025-05-22 12:43:55,518 [INFO] Neo4j connection successful.
+2025-05-22 12:43:55,667 [INFO] Neo4j connection successful.
+2025-05-22 12:43:56,559 [INFO] Successfully ran Cypher query: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 12:43:56,561 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:44:38,376 [INFO] Connecting to Neo4j...
+2025-05-22 12:44:40,450 [INFO] Neo4j connection successful.
+2025-05-22 12:44:41,323 [INFO] Successfully ran Cypher query: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 12:44:41,339 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:44:59,392 [INFO] Connecting to Neo4j...
+2025-05-22 12:44:59,929 [INFO] Connecting to Neo4j...
+2025-05-22 12:45:01,512 [INFO] Neo4j connection successful.
+2025-05-22 12:45:02,018 [INFO] Neo4j connection successful.
+2025-05-22 12:45:02,939 [ERROR] Failed to run Cypher query: Error code: 413 - {'error': {'message': 'Request too large for model `gemma2-9b-it` in organization `org_01jn30dncvezttk0m1pefwsyzn` service tier `on_demand` on tokens per minute (TPM): Limit 15000, Requested 42960, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-05-22 12:45:02,941 [INFO] GraphCypherQAChain response: None
+2025-05-22 12:45:09,062 [INFO] Connecting to Neo4j...
+2025-05-22 12:45:11,147 [INFO] Neo4j connection successful.
+2025-05-22 12:45:11,872 [ERROR] Failed to run Cypher query: Error code: 413 - {'error': {'message': 'Request too large for model `gemma2-9b-it` in organization `org_01jn30dncvezttk0m1pefwsyzn` service tier `on_demand` on tokens per minute (TPM): Limit 15000, Requested 42960, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-05-22 12:45:11,874 [INFO] GraphCypherQAChain response: None
+2025-05-22 12:45:23,670 [INFO] Connecting to Neo4j...
+2025-05-22 12:45:24,039 [INFO] Connecting to Neo4j...
+2025-05-22 12:45:25,747 [INFO] Neo4j connection successful.
+2025-05-22 12:45:26,122 [INFO] Neo4j connection successful.
+2025-05-22 12:45:26,980 [INFO] Successfully ran Cypher query: how many types of machines are there?and what are they?
+2025-05-22 12:45:26,981 [INFO] GraphCypherQAChain response: There are seven types of machines: LT-3500, LT-2200, LT-4100, LT-3200, LT-5000, LT-2800, and LT-3850. 
+
+2025-05-22 12:45:49,813 [INFO] Connecting to Neo4j...
+2025-05-22 12:45:50,608 [INFO] Connecting to Neo4j...
+2025-05-22 12:45:51,900 [INFO] Neo4j connection successful.
+2025-05-22 12:45:52,702 [INFO] Neo4j connection successful.
+2025-05-22 12:45:53,698 [INFO] Successfully ran Cypher query: how many problems are related to this component and what is the problem?: CSN-FS3218
+2025-05-22 12:45:53,699 [INFO] GraphCypherQAChain response: One problem is related to this component. The problem is inconsistent surface finish on workpieces. 
+
+2025-05-22 12:46:10,091 [INFO] Connecting to Neo4j...
+2025-05-22 12:46:11,790 [INFO] Connecting to Neo4j...
+2025-05-22 12:46:12,178 [INFO] Neo4j connection successful.
+2025-05-22 12:46:12,698 [ERROR] Failed to run Cypher query: {code: Neo.ClientError.Statement.SyntaxError} {message: Invalid input 'GROUP': expected a graph pattern, 'FOREACH', ',', 'ORDER BY', 'CALL', 'CREATE', 'LOAD CSV', 'DELETE', 'DETACH', 'FINISH', 'INSERT', 'LIMIT', 'MATCH', 'MERGE', 'NODETACH', 'OFFSET', 'OPTIONAL', 'REMOVE', 'RETURN', 'SET', 'SKIP', 'UNION', 'UNWIND', 'USE', 'USING', 'WHERE', 'WITH' or <EOF> (line 3, column 1 (offset: 57))
+"GROUP BY c.name"
+ ^}
+2025-05-22 12:46:12,699 [INFO] GraphCypherQAChain response: None
+2025-05-22 12:46:13,847 [INFO] Neo4j connection successful.
+2025-05-22 12:46:18,153 [INFO] Connecting to Neo4j...
+2025-05-22 12:46:20,215 [INFO] Neo4j connection successful.
+2025-05-22 12:46:21,012 [INFO] Successfully ran Cypher query: name the unique components in the machine and how many are there?
+2025-05-22 12:46:21,013 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:46:24,315 [INFO] Connecting to Neo4j...
+2025-05-22 12:46:26,188 [INFO] Connecting to Neo4j...
+2025-05-22 12:46:26,385 [INFO] Neo4j connection successful.
+2025-05-22 12:46:28,250 [INFO] Neo4j connection successful.
+2025-05-22 12:46:29,166 [INFO] Successfully ran Cypher query: name the unique components in the machine and how many are there?
+2025-05-22 12:46:29,167 [INFO] GraphCypherQAChain response: Main Spindle Assembly (1), Control System (10), CNC Controller (1), Tailstock Assembly (3), Hydraulic System (10), Gearbox Assembly (3), Drive System (5), User Interface (4), Chuck Assembly (6), Coolant System (8) 
+
+2025-05-22 12:46:47,658 [INFO] Connecting to Neo4j...
+2025-05-22 12:46:49,048 [INFO] Connecting to Neo4j...
+2025-05-22 12:46:49,721 [INFO] Neo4j connection successful.
+2025-05-22 12:46:51,107 [INFO] Neo4j connection successful.
+2025-05-22 12:46:51,109 [INFO] Finding similar problems for input: name the unique components in the machine and how many are there?
+2025-05-22 12:46:53,196 [INFO] Successfully retrieved problem context.
+2025-05-22 12:46:53,197 [INFO] Successfully retrieved problem context.
+2025-05-22 12:46:54,860 [INFO] LLM response received successfully.
+2025-05-22 12:47:44,182 [INFO] Connecting to Neo4j...
+2025-05-22 12:47:45,666 [INFO] Connecting to Neo4j...
+2025-05-22 12:47:45,867 [INFO] Connecting to Neo4j...
+2025-05-22 12:47:46,127 [INFO] Connecting to Neo4j...
+2025-05-22 12:47:46,323 [INFO] Neo4j connection successful.
+2025-05-22 12:47:47,769 [INFO] Neo4j connection successful.
+2025-05-22 12:47:47,968 [INFO] Neo4j connection successful.
+2025-05-22 12:47:47,971 [INFO] Finding similar problems for input: coolent issue
+2025-05-22 12:47:48,203 [INFO] Neo4j connection successful.
+2025-05-22 12:47:50,058 [INFO] Successfully retrieved problem context.
+2025-05-22 12:47:50,059 [INFO] Successfully retrieved problem context.
+2025-05-22 12:47:51,430 [INFO] LLM response received successfully.
+2025-05-22 12:49:04,884 [INFO] Connecting to Neo4j...
+2025-05-22 12:49:06,340 [INFO] Connecting to Neo4j...
+2025-05-22 12:49:06,939 [INFO] Neo4j connection successful.
+2025-05-22 12:49:08,432 [INFO] Neo4j connection successful.
+2025-05-22 12:49:08,435 [INFO] Finding similar problems for input: coolant is extreamly hot
+2025-05-22 12:49:10,513 [INFO] Successfully retrieved problem context.
+2025-05-22 12:49:10,514 [INFO] Successfully retrieved problem context.
+2025-05-22 12:49:12,112 [INFO] LLM response received successfully.
+2025-05-22 12:51:29,638 [INFO] Connecting to Neo4j...
+2025-05-22 12:51:31,737 [INFO] Neo4j connection successful.
+2025-05-22 12:51:31,740 [INFO] Finding similar problems for input: coolant is extreamly hot
+2025-05-22 12:51:33,828 [INFO] Successfully retrieved problem context.
+2025-05-22 12:51:33,830 [INFO] Successfully retrieved problem context.
+2025-05-22 12:51:35,427 [INFO] LLM response received successfully.
+2025-05-22 12:51:46,602 [INFO] Connecting to Neo4j...
+2025-05-22 12:51:48,667 [INFO] Neo4j connection successful.
+2025-05-22 12:51:53,378 [INFO] Connecting to Neo4j...
+2025-05-22 12:51:55,462 [INFO] Neo4j connection successful.
+2025-05-22 12:51:56,310 [INFO] Successfully ran Cypher query: coolant is extreamly hot
+2025-05-22 12:51:56,311 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:52:10,744 [INFO] Connecting to Neo4j...
+2025-05-22 12:52:10,955 [INFO] Connecting to Neo4j...
+2025-05-22 12:52:12,803 [INFO] Neo4j connection successful.
+2025-05-22 12:52:13,006 [INFO] Neo4j connection successful.
+2025-05-22 12:52:13,458 [ERROR] Failed to run Cypher query: {code: Neo.ClientError.Statement.SyntaxError} {message: Invalid input 'COUNT': expected 'FOREACH', ',', 'ORDER BY', 'CALL', 'CREATE', 'LOAD CSV', 'DELETE', 'DETACH', 'FINISH', 'INSERT', 'LIMIT', 'MATCH', 'MERGE', 'NODETACH', 'OFFSET', 'OPTIONAL', 'REMOVE', 'RETURN', 'SET', 'SKIP', 'UNION', 'UNWIND', 'USE', 'WITH' or <EOF> (line 4, column 1 (offset: 66))
+"COUNT(DISTINCT m.model) AS num_machine_types"
+ ^}
+2025-05-22 12:52:13,458 [INFO] GraphCypherQAChain response: None
+2025-05-22 12:52:17,531 [INFO] Connecting to Neo4j...
+2025-05-22 12:52:19,654 [INFO] Neo4j connection successful.
+2025-05-22 12:52:20,548 [INFO] Successfully ran Cypher query: how many types of machines are there?and what are they?
+2025-05-22 12:52:20,552 [INFO] GraphCypherQAChain response: There are 7 types of machines. They are LT-3500, LT-2200, LT-4100, LT-3200, LT-5000, LT-2800, and LT-3850. 
+
+2025-05-22 12:53:07,063 [INFO] Connecting to Neo4j...
+2025-05-22 12:53:09,141 [INFO] Neo4j connection successful.
+2025-05-22 12:53:34,366 [INFO] Connecting to Neo4j...
+2025-05-22 12:53:36,459 [INFO] Neo4j connection successful.
+2025-05-22 12:53:55,778 [INFO] Connecting to Neo4j...
+2025-05-22 12:53:57,854 [INFO] Neo4j connection successful.
+2025-05-22 12:54:07,677 [INFO] Connecting to Neo4j...
+2025-05-22 12:54:07,835 [INFO] Connecting to Neo4j...
+2025-05-22 12:54:09,737 [INFO] Neo4j connection successful.
+2025-05-22 12:54:09,902 [INFO] Neo4j connection successful.
+2025-05-22 12:54:10,543 [INFO] Successfully ran Cypher query: "what is the similer problem to this problem?: Tool turret not indexing to correct position"
+2025-05-22 12:54:10,544 [INFO] GraphCypherQAChain response: I don't know the answer. 
+
+2025-05-22 12:54:16,438 [INFO] Connecting to Neo4j...
+2025-05-22 12:54:18,502 [INFO] Neo4j connection successful.
+2025-05-22 12:54:31,085 [INFO] Connecting to Neo4j...
+2025-05-22 12:54:31,481 [INFO] Connecting to Neo4j...
+2025-05-22 12:54:33,144 [INFO] Neo4j connection successful.
+2025-05-22 12:54:33,540 [INFO] Neo4j connection successful.
+2025-05-22 12:54:33,543 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 12:54:35,625 [INFO] Successfully retrieved problem context.
+2025-05-22 12:54:35,626 [INFO] Successfully retrieved problem context.
+2025-05-22 12:54:37,174 [INFO] LLM response received successfully.
+2025-05-22 12:54:43,534 [INFO] Connecting to Neo4j...
+2025-05-22 12:54:45,628 [INFO] Neo4j connection successful.
+2025-05-22 12:54:45,631 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 12:54:47,756 [INFO] Successfully retrieved problem context.
+2025-05-22 12:54:47,757 [INFO] Successfully retrieved problem context.
+2025-05-22 12:54:49,581 [INFO] LLM response received successfully.
+2025-05-22 14:59:10,532 [INFO] Connecting to Neo4j...
+2025-05-22 14:59:12,740 [INFO] Neo4j connection successful.
+2025-05-22 14:59:12,754 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 14:59:14,919 [INFO] Successfully retrieved problem context.
+2025-05-22 14:59:14,927 [INFO] Successfully retrieved problem context.
+2025-05-22 14:59:16,699 [INFO] LLM response received successfully.
+2025-05-22 15:01:42,893 [INFO] Connecting to Neo4j...
+2025-05-22 15:01:45,066 [INFO] Neo4j connection successful.
+2025-05-22 15:01:45,081 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 15:01:47,245 [INFO] Successfully retrieved problem context.
+2025-05-22 15:01:47,248 [INFO] Successfully retrieved problem context.
+2025-05-22 15:01:49,110 [INFO] LLM response received successfully.
+2025-05-22 15:02:24,823 [INFO] Connecting to Neo4j...
+2025-05-22 15:02:26,980 [INFO] Neo4j connection successful.
+2025-05-22 15:02:26,988 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 15:02:29,143 [INFO] Successfully retrieved problem context.
+2025-05-22 15:02:29,148 [INFO] Successfully retrieved problem context.
+2025-05-22 15:02:30,866 [INFO] LLM response received successfully.
+2025-05-22 15:04:40,939 [INFO] Connecting to Neo4j...
+2025-05-22 15:04:43,109 [INFO] Neo4j connection successful.
+2025-05-22 15:04:43,126 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 15:04:45,269 [INFO] Successfully retrieved problem context.
+2025-05-22 15:04:47,146 [INFO] LLM response received successfully.
+2025-05-22 15:09:22,689 [INFO] Connecting to Neo4j...
+2025-05-22 15:09:24,854 [INFO] Neo4j connection successful.
+2025-05-22 15:09:24,869 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 15:09:27,040 [INFO] Successfully retrieved problem context.
+2025-05-22 15:09:28,658 [INFO] LLM response received successfully.
+2025-05-22 15:17:41,489 [INFO] Connecting to Neo4j...
+2025-05-22 15:17:43,642 [INFO] Neo4j connection successful.
+2025-05-22 15:17:43,658 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 15:17:45,841 [INFO] Successfully retrieved problem context.
+2025-05-22 15:17:47,563 [INFO] LLM response received successfully.
+2025-05-22 15:21:27,236 [INFO] Connecting to Neo4j...
+2025-05-22 15:21:29,357 [INFO] Neo4j connection successful.
+2025-05-22 15:21:29,365 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 15:21:31,498 [INFO] Successfully retrieved problem context.
+2025-05-22 15:21:33,194 [INFO] LLM response received successfully.
+2025-05-22 15:23:55,184 [INFO] Connecting to Neo4j...
+2025-05-22 15:23:57,268 [INFO] Neo4j connection successful.
+2025-05-22 15:23:57,275 [INFO] Finding similar problems for input: what is the similer problem to this problem?: Tool turret not indexing to correct position
+2025-05-22 15:23:59,385 [INFO] Successfully retrieved problem context.
+2025-05-22 15:24:00,924 [INFO] LLM response received successfully.
+2025-05-22 15:25:51,571 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 15:25:51,575 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 15:25:51,715 [WARNING] No matching problem found.
+2025-05-22 15:25:53,428 [INFO] LLM response received successfully.
+2025-05-22 15:26:21,230 [INFO] Successfully ran Cypher query: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 15:26:21,234 [INFO] Finding similar problems for input: what is the cause for problem text: Tool turret not indexing to correct position
+2025-05-22 15:26:21,450 [WARNING] No matching problem found.
+2025-05-22 15:26:22,980 [INFO] LLM response received successfully.
+2025-05-22 15:27:20,582 [INFO] Finding similar problems for input: Tool turret not indexing to correct position
+2025-05-22 15:27:22,671 [WARNING] No matching problem found.
+2025-05-22 15:27:24,549 [INFO] LLM response received successfully.
+2025-05-22 15:27:46,180 [INFO] Finding similar problems for input: Tool turret not indexing to correct position
+2025-05-22 15:27:48,357 [WARNING] No matching problem found.
+2025-05-22 15:27:50,193 [INFO] LLM response received successfully.
+2025-05-22 15:29:19,941 [INFO] Finding similar problems for input: Tool turret not indexing to correct position
+2025-05-22 15:29:22,139 [WARNING] No matching problem found.
+2025-05-22 15:29:23,888 [INFO] LLM response received successfully.
+2025-05-22 15:30:38,111 [INFO] Finding similar problems for input: Coolent is extremely hot
+2025-05-22 15:30:40,247 [WARNING] No matching problem found.
+2025-05-22 15:30:41,979 [INFO] LLM response received successfully.
+2025-05-22 15:32:52,110 [INFO] Connecting to Neo4j...
+2025-05-22 15:32:54,268 [INFO] Neo4j connection successful.
+2025-05-22 15:33:12,338 [INFO] Connecting to Neo4j...
+2025-05-22 15:33:13,409 [INFO] Connecting to Neo4j...
+2025-05-22 15:33:14,499 [INFO] Neo4j connection successful.
+2025-05-22 15:33:15,577 [INFO] Neo4j connection successful.
+2025-05-22 15:33:15,593 [ERROR] Vector search or LLM diagnosis failed: find_similar_problem() missing 1 required positional argument: 'top_k'
+2025-05-22 15:33:46,983 [INFO] Connecting to Neo4j...
+2025-05-22 15:33:49,130 [INFO] Neo4j connection successful.
+2025-05-22 15:33:49,130 [INFO] Finding similar problems for input: coolent is extramlt hot
+2025-05-22 15:33:51,353 [WARNING] No matching problem found.
+2025-05-22 15:33:51,359 [INFO] Successfully retrieved problem context.
+2025-05-22 15:33:52,936 [INFO] LLM response received successfully.
+2025-05-22 15:34:48,303 [INFO] Connecting to Neo4j...
+2025-05-22 15:34:50,484 [INFO] Neo4j connection successful.
+2025-05-22 15:34:50,484 [INFO] Finding similar problems for input: coolent is extramlt hot
+2025-05-22 15:34:52,656 [WARNING] No matching problem found.
+2025-05-22 15:34:52,656 [INFO] Successfully retrieved problem context.
+2025-05-22 15:34:54,373 [INFO] LLM response received successfully.
+2025-05-22 15:35:57,161 [INFO] Connecting to Neo4j...
+2025-05-22 15:35:59,244 [INFO] Neo4j connection successful.
+2025-05-22 15:35:59,244 [INFO] Finding similar problems for input: coolent is extramlt hot
+2025-05-22 15:36:01,360 [WARNING] No matching problem found.
+2025-05-22 15:36:01,366 [INFO] Successfully retrieved problem context.
+2025-05-22 15:36:03,102 [INFO] LLM response received successfully.
+2025-05-22 15:37:13,857 [INFO] Connecting to Neo4j...
+2025-05-22 15:37:16,023 [INFO] Neo4j connection successful.
+2025-05-22 15:37:16,045 [INFO] Finding similar problems for input: coolent is extramlt hot
+2025-05-22 15:37:18,189 [WARNING] No matching problem found.
+2025-05-22 15:37:18,196 [INFO] Successfully retrieved problem context.
+2025-05-22 15:37:19,718 [INFO] LLM response received successfully.
+2025-05-22 15:37:37,554 [INFO] Connecting to Neo4j...
+2025-05-22 15:37:39,719 [INFO] Neo4j connection successful.
+2025-05-22 15:38:47,709 [INFO] Connecting to Neo4j...
+2025-05-22 15:38:49,874 [INFO] Neo4j connection successful.
+2025-05-22 15:39:16,750 [INFO] Connecting to Neo4j...
+2025-05-22 15:39:18,896 [INFO] Neo4j connection successful.
+2025-05-22 15:42:24,556 [INFO] Connecting to Neo4j...
+2025-05-22 15:42:26,726 [INFO] Neo4j connection successful.
+2025-05-22 15:42:37,428 [INFO] Connecting to Neo4j...
+2025-05-22 15:42:38,052 [INFO] Connecting to Neo4j...
+2025-05-22 15:42:38,397 [INFO] Connecting to Neo4j...
+2025-05-22 15:42:39,600 [INFO] Neo4j connection successful.
+2025-05-22 15:42:40,216 [INFO] Neo4j connection successful.
+2025-05-22 15:42:40,526 [INFO] Neo4j connection successful.
+2025-05-22 15:42:45,472 [INFO] Connecting to Neo4j...
+2025-05-22 15:42:47,643 [INFO] Neo4j connection successful.
+2025-05-22 15:42:47,643 [INFO] Finding similar problems for input: coolant
+2025-05-22 15:42:49,876 [WARNING] No matching problem found.
+2025-05-22 15:42:49,878 [INFO] Successfully retrieved problem context.
+2025-05-22 15:42:51,648 [INFO] LLM response received successfully.
+2025-05-22 15:42:57,067 [INFO] Connecting to Neo4j...
+2025-05-22 15:42:59,222 [INFO] Neo4j connection successful.
+2025-05-22 15:42:59,234 [INFO] Finding similar problems for input: coolant
+2025-05-22 15:43:01,399 [WARNING] No matching problem found.
+2025-05-22 15:43:01,399 [INFO] Successfully retrieved problem context.
+2025-05-22 15:43:03,070 [INFO] LLM response received successfully.
+2025-05-22 15:48:08,023 [INFO] Connecting to Neo4j...
+2025-05-22 15:48:10,199 [INFO] Neo4j connection successful.
+2025-05-22 15:48:10,217 [INFO] Finding similar problems for input: coolant
+2025-05-22 15:48:12,408 [WARNING] No matching problem found.
+2025-05-22 15:48:12,415 [INFO] Successfully retrieved problem context.
+2025-05-22 15:48:14,199 [INFO] LLM response received successfully.
+2025-05-22 15:51:19,793 [INFO] Connecting to Neo4j...
+2025-05-22 15:51:21,957 [INFO] Neo4j connection successful.
+2025-05-22 15:51:21,968 [INFO] Finding similar problems for input: coolant
+2025-05-22 15:51:24,143 [WARNING] No matching problem found.
+2025-05-22 15:51:24,143 [INFO] Successfully retrieved problem context.
+2025-05-22 15:51:26,293 [INFO] LLM response received successfully.
+2025-05-22 15:51:40,649 [INFO] Connecting to Neo4j...
+2025-05-22 15:51:40,873 [INFO] Connecting to Neo4j...
+2025-05-22 15:51:42,811 [INFO] Neo4j connection successful.
+2025-05-22 15:51:42,826 [INFO] Finding similar problems for input: coolant is extreamly hot
+2025-05-22 15:51:43,007 [INFO] Neo4j connection successful.
+2025-05-22 15:51:45,020 [WARNING] No matching problem found.
+2025-05-22 15:51:45,020 [INFO] Successfully retrieved problem context.
+2025-05-22 15:51:47,057 [INFO] LLM response received successfully.
+2025-05-22 15:52:56,063 [INFO] Finding similar problems for input: Coolent is extremely hot
+2025-05-22 15:52:58,183 [WARNING] No matching problem found.
+2025-05-22 15:52:59,963 [INFO] LLM response received successfully.
+2025-05-22 15:53:53,870 [INFO] Successfully ran Cypher query: Coolent is extremely hot
+2025-05-22 15:53:53,870 [INFO] Finding similar problems for input: Coolent is extremely hot
+2025-05-22 15:53:54,012 [WARNING] No matching problem found.
+2025-05-22 15:53:56,168 [INFO] LLM response received successfully.
+2025-05-22 16:01:50,325 [INFO] Successfully ran Cypher query: Coolent is extremely hot
+2025-05-22 16:01:50,325 [INFO] Finding similar problems for input: Coolent is extremely hot
+2025-05-22 16:01:52,213 [INFO] LLM response received successfully.
+2025-05-22 16:02:51,455 [INFO] Connecting to Neo4j...
+2025-05-22 16:02:53,963 [INFO] Neo4j connection successful.
+2025-05-22 16:03:09,494 [INFO] Connecting to Neo4j...
+2025-05-22 16:03:10,463 [INFO] Connecting to Neo4j...
+2025-05-22 16:03:11,014 [INFO] Connecting to Neo4j...
+2025-05-22 16:03:11,654 [INFO] Neo4j connection successful.
+2025-05-22 16:03:12,622 [INFO] Neo4j connection successful.
+2025-05-22 16:03:13,165 [INFO] Neo4j connection successful.
+2025-05-22 16:03:17,707 [INFO] Connecting to Neo4j...
+2025-05-22 16:03:19,838 [INFO] Neo4j connection successful.
+2025-05-22 16:03:19,843 [INFO] Finding similar problems for input: coolant is hot
+2025-05-22 16:03:22,023 [INFO] Successfully retrieved problem context.
+2025-05-22 16:03:23,683 [INFO] LLM response received successfully.

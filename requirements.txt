@@ -10,3 +10,4 @@ openai
 sentence_transformers
 psycopg2
 sqlalchemy
+streamlit

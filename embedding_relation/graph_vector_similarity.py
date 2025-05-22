@@ -17,10 +17,11 @@ SIMILARITY_THRESHOLD = 0.6
 TOP_K = 5
 
 # === LOAD EMBEDDING MODEL ===
+
 model = SentenceTransformer(MODEL_NAME)
 
 # === LOAD CSV DATA ===
-csv_path = "data/manufacturing_service_data.csv"
+#csv_path = "data/manufacturing_service_data.csv"
 
 # === ENV VARIABLES ===
 try:
@@ -37,12 +38,14 @@ except Exception as e:
 
 
 # === LOAD CSV DATA ===
-try:
-    df = pd.read_csv(csv_path)
-    logger.info(f"CSV loaded successfully: {csv_path}")
-except Exception as e:
-    logger.error(f"Failed to load CSV: {e}")
-    raise
+def load_csv_for_embedding(csv_path: str):
+    try:
+        df = pd.read_csv(csv_path)
+        logger.info(f"CSV loaded successfully for embedding: {csv_path}")
+        return df
+    except Exception as e:
+        logger.error(f"Failed to load CSV: {e}")
+        raise
 
 # === EMBED, CREATE NODES, AND SIMILARITY RELATIONS ===
 def update_node_embedding(tx, label, text, vector):
@@ -97,7 +100,7 @@ def create_similar_relationship(tx, label, text_a, text_b, score):
     """
     tx.run(query, text_a=text_a, text_b=text_b, score=round(score, 3))
 
-def process_node_type(driver, label, column_name):
+def process_node_type(driver, label, column_name, csv_path, model):
     """
     Process a column of the CSV data as a particular type of node, computing their
     vector embeddings and storing them in the Neo4j graph. Also creates a vector
@@ -119,6 +122,7 @@ def process_node_type(driver, label, column_name):
     """
     
     logger.info(f"Processing {label} nodes from column: {column_name}")
+    df = load_csv_for_embedding(csv_path)
     texts = df[column_name].dropna().unique().tolist()
 
     if not texts:

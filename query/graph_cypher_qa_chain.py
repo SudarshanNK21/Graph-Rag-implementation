@@ -12,7 +12,7 @@ def graph_qa_chain(graph, query: str,llm):
     try:
         llm = ChatGroq(groq_api_key=groq_api_key,model_name=llm)
         chain=GraphCypherQAChain.from_llm(llm=llm,graph=graph,verbose=True,allow_dangerous_requests=True)
-        response = chain.run(query)
+        response = chain.run(f"{query}")
         logger.info(f"Successfully ran Cypher query: {query}")
         return response
     except Exception as e:

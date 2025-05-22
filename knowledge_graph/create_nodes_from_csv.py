@@ -29,6 +29,8 @@ def load_csv_and_create_nodes(driver, csv_path: str, cypher_query: str):
 
         # Fill NaN with empty string to avoid parameter issues
         df.fillna("", inplace=True)
+        
+        df.to_csv("data/service_records_after_renaming.csv", index=False)
 
         with driver.session() as session:
             for index, row in df.iterrows():
