@@ -119,8 +119,8 @@ Core libraries include:
 
 ### Main Entry Points
 - **main.py**: Primary execution script with configuration and data pipeline
-- **app.py
-- **: Application implementations (Streamlit or web-based)
+- **app.py**: Application implementations (Streamlit or web-based)
+
 
 ### Typical Workflow
 1. Load CSV data from `data/` folder
