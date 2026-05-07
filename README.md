@@ -1,4 +1,4 @@
-# Service Data Graph RAG Implementation
+# Graph RAG Implementation for Service Data 
 
 ## Overview
 
